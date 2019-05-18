@@ -1,9 +1,5 @@
 package pl.dominisz;
 
-/**
- * http://dominisz.pl
- * 18.05.2019
- */
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.*;
 

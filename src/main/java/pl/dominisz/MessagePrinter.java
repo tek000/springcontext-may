@@ -1,9 +1,6 @@
 package pl.dominisz;
 
-/**
- * http://dominisz.pl
- * 18.05.2019
- */
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
